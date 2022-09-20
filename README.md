@@ -1,3 +1,5 @@
+### This Repo is Archived under Pulsar-Edit due to being templates of now essentially discontinued `space-pen`
+
 # space-pen-example Templates
 
 This provides a set of templates for `apm init` to generate a new Atom package using space-pen as the view system.
